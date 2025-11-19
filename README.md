@@ -28,10 +28,13 @@ Budget vs. Actual Variance
 DAX (Data Analysis Expressions): Creating advanced time-intelligence measures for period-over-period comparisons:
 
 Year-to-Date (YTD) and Month-to-Date (MTD) totals.
+<img width="417" height="284" alt="image" src="https://github.com/user-attachments/assets/e8b9acd3-2e8b-4a78-9a18-54540b15d86d" />
 
 Variance calculations (e.g., (Actual - Budget) / Budget).
+<img width="483" height="261" alt="image" src="https://github.com/user-attachments/assets/eaba320d-45e4-4a0d-bcbe-af53b0f22b11" />
 
 Rolling Averages or Trendlines.
+<img width="885" height="283" alt="image" src="https://github.com/user-attachments/assets/de4f81f7-63c8-4c73-9b80-297092f8e8c7" />
 
 II. Data Modeling and Presentation
 Data Modeling: Implementing best practices (e.g., Star Schema) to create relationships between financial ledgers, budgets, and a robust Date Table.
