@@ -45,6 +45,8 @@ Conditional Formatting: Using rules to highlight positive and negative variances
 
 III. Interactivity and Visuals
 Slicers & Filters: Incorporating interactive elements to allow executives to filter results by department, cost center, or fiscal period.
+<img width="233" height="386" alt="image" src="https://github.com/user-attachments/assets/2af6d906-bdf9-48a6-8d4d-bc2638b0f0f3" />
+<img width="233" height="386" alt="image" src="https://github.com/user-attachments/assets/76c485fd-d24c-479f-94f3-fb5ede441110" />
 
 Visual Design: Using appropriate visuals (e.g., waterfall charts for breakdown of revenue, custom bar charts for P&L items, and gauges for KPI targets).
 
